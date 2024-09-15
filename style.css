@@ -84,7 +84,7 @@ body {
   align-items: center;
   justify-content: space-between;
   padding: 20px 80px;
-  background: #E3E6F3;
+  background: #f7e8ca;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
   z-index: 999;
   position: sticky;
@@ -114,7 +114,7 @@ body {
 
 #navbar li a:hover,
 #navbar li a.active{
-  color: #088178;
+  color: #150c68;
 }
 
 #navbar li a.active::after,
@@ -122,7 +122,7 @@ body {
   content: "";
   width: 30%;
   height: 2px;
-  background: #088178;
+  background: #150c68;
   position: absolute;
   bottom: -4px;
   left: 20px;
@@ -157,13 +157,13 @@ body {
 }
 
 #main h1 {
-  color: #088178;
+  color: #150c68;
 }
 
 #main button {
   background-image: url("img/button.png");
   background-color: transparent;
-  color: #088178;
+  color: #150c68;
   border: 0;
   padding: 14px 65px;
   background-repeat: no-repeat;
@@ -202,7 +202,7 @@ body {
   padding: 9px 8px 6px 8px;
   line-height: 1;
   border-radius: 4px;
-  color: #088178;
+  color: #150c68;
   background-color: #fddde4;
 }
 
@@ -223,7 +223,7 @@ body {
 }
 
 #feature .fe-box:nth-child(6) h6 {
-  background-color: #bcd4ebb0;
+  background-color: #ebd2bcb6;
 }
 
 #product1 {
@@ -244,7 +244,7 @@ body {
   border: 1px solid #cce7d0;
   border-radius: 25px;
   cursor: pointer;
-  box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.02);
+  box-shadow: 20px 20px 30px rgba(87, 3, 3, 0.02);
   margin: 15px 0px;
   transition: transform 0.3s ease-in-out;
   position: relative;
@@ -285,7 +285,7 @@ body {
   padding-top: 7px;
   font-size: 12px;
   font-weight: 700;
-  color: #088178;
+  color: #150c68;
 }
 
 #product1 .pro .cart {
@@ -293,9 +293,9 @@ body {
   height: 40px;
   line-height: 40px;
   border-radius: 50px;
-  background-color: #e8f6ea;
+  background-color: #ebd2bcb6;
   font-weight: 500;
-  color: #088178;
+  color: #150c68;
   border: 1px solid #cce7d0;
   position: absolute;
   bottom: 20px;
@@ -331,7 +331,7 @@ body {
 }
 
 #banner button:hover {
-  background-color: #088178;
+  background-color: #150c68;
   color: #fff; 
 }
 
@@ -379,8 +379,8 @@ body {
 }
 
 #sm-banner .banner-box:hover button {
-  background-color: #088178;
-  border: 1px solid #088178;
+  background-color: #150c68;
+  border: 1px solid #150c68;
 }
 
 #banner3 {
@@ -469,7 +469,7 @@ body {
 }
 
 #newsletter button {
-  background-color: #088178;
+  background-color: #150c68;
   color: #fff;
   white-space: nowrap;
   border-top-left-radius: 0;
@@ -525,7 +525,7 @@ footer .follow h4 {
 }
 
 footer .install .row img{
-  border: 1px solid #088178;
+  border: 1px solid #150c68;
   border-radius: 6px;
 }
 
@@ -536,7 +536,7 @@ footer .install img {
 
 footer .follow i:hover,
 footer a:hover {
-  color: #088178;
+  color: #150c68;
 }
 
 footer .copyright {
@@ -568,7 +568,7 @@ footer .copyright {
 }
 #pagination a {
   text-decoration: none;
-  background-color: #088178;
+  background-color: #150c68;
   padding: 15px 20px;
   border-radius: 4px;
   color: #fff;
@@ -634,7 +634,7 @@ footer .copyright {
 }
 
 #prodetails .single-pro-details button {
-  background-color: #088178;
+  background-color: #150c68;
   color: #fff;
 }
 
@@ -699,11 +699,11 @@ footer .copyright {
 }
 
 #blog .blog-details a:hover {
-  color: #088178;
+  color: #150c68;
 }
 
 #blog .blog-details a:hover::after {
-  background-color: #088178;
+  background-color: #150c68;
 }
 
 #blog .blog-box h1 {
@@ -836,7 +836,7 @@ footer .copyright {
 }
 
 #form-details form button {
-  background-color: #088178;
+  background-color: #150c68;
   color: #fff;
 }
 
@@ -957,7 +957,7 @@ footer .copyright {
 
 #coupon button,
 #subtotal button {
-  background-color: #088178;
+  background-color: #150c68;
   color: #fff;
   padding: 12px 20px;
 }
